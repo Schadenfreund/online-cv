@@ -63,7 +63,7 @@ career-profile:
 experiences:
   title: Experiences
   info:
-     - role: Founder
+    - role: Founder
       time: January 2022 - current
       company: openindie.eu - An indie dev podcast
       details: |
