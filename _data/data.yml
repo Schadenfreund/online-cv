@@ -1,29 +1,39 @@
-#
 # Be aware that even a small syntax error here can lead to failures in output.
-#
-
 
 sidebar:
-  position: right
-  about: True 
-  education: True
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
+# Profile information
 name: Ivan Burić
 tagline: CAE Software Expert | Customer Relations Manager
-avatar: profile.png
+avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+# Sidebar links
 email: iburic@outlook.com
 phone: +49 179 7264008
+timezone: Europe/Berlin
+citizenship: German / Croatian
 website: openindie.eu
 linkedin: ivan-buric
 xing: ivan_buric3
+github: 
+telegram: # add your nickname without '@' sign
+gitlab:
+bitbucket:
+twitter: 
+stack-overflow: # Number/Username, e.g. 123456/alandoe
+codewars:
+goodreads: # Number-Username, e.g. 123456-alandoe
+pdf: 
 
 languages:
   title: Languages
   info:
     - idiom: German
       level: Native
-    - idiom: English  
+    - idiom: English
       level: Fluent
     - idiom: Croatian
       level: Fluent
@@ -32,8 +42,11 @@ interests:
   title: Interests
   info:
     - item: Hiking
+      link:
     - item: Fitness
+      link:
     - item: Playing guitar
+      link:
 
 career-profile:
   title: Career Profile
@@ -51,7 +64,7 @@ education:
       details: |
         Focus areas:
         - Polymer Engineering
-        - Technical Sales
+	- CAD (Catia), FEM (Ansys) & CAE (Moldflow, Moldex 3D, Cadmould)
         - Project Management
 
 experiences:
@@ -65,6 +78,7 @@ experiences:
         - Led pre- and post-sales activities
         - Developed strategies to communicate complex CAE analyses to clients
         - Established and grew educational sector partnerships
+	- Created and executed trainings for Material data quality, shrinkage & warpage analysis, injection molding process insight
         
     - role: Manager Customer Service and Engineering  
       time: July 2014 - June 2016
@@ -79,6 +93,7 @@ experiences:
       company: SIGMA Engineering GmbH, Aachen
       details: |
         - Led a team of 5+ engineers for post-sales support
+	- Responsible for Material Data collection and validation
         - Built and maintained customer relationships
         
     - role: Support Service Engineer
@@ -104,3 +119,4 @@ skills:
       level: 85%
 
 footer: >
+ Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
