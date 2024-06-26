@@ -59,18 +59,6 @@ career-profile:
     Strong background in customer relations, project management, and technical sales. 
     Skilled in coordinating engineering services and managing cross-functional teams.
 
-education:
-  title: Education
-  info:
-    - degree: Dipl. Ing. (FH) Kunststofftechnik
-      university: Hochschule Rosenheim
-      time: 2004 - 2009
-      details: |
-        Focus areas:
-        - Polymer Engineering
-        - CAD (Catia), FEM (Ansys) & CAE (Moldflow, Moldex 3D, Cadmould)
-        - Project Management
-
 experiences:
   title: Experiences
   info:
@@ -107,6 +95,20 @@ experiences:
         - Provided pre-sales engineering services in B2B market
         - Managed projects and presented results to professional audiences
         - Served as communication link between software development, scientists and engineering teams
+
+education:
+  title: Education
+  info:
+    - degree: Dipl. Ing. (FH) Kunststofftechnik
+      university: Hochschule Rosenheim
+      time: 2004 - 2009
+      details: |
+        The degree program in Polymer Engineering at Hochschule Rosenheim focuses on polymer processing, product design, and materials science. The curriculum covers polymer engineering, technical sales, and project management, preparing graduates for careers in developing and manufacturing innovative plastic products.
+        Focus areas:
+         - Polymer Engineering
+         - CAD (Catia), FEM (Ansys) & CAE (Moldflow, Moldex 3D, Cadmould)
+         - Project Management
+
 
 skills:
   title: Skills & Proficiency
