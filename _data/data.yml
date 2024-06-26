@@ -115,14 +115,13 @@ skills:
   toolset:
     - name: CAE Software (SIGMASOFT)
       level: 95%
-    - name: Project Management  
-      level: 90%
     - name: Customer Relationship Management
       level: 95%
+    - name: Project Management  
+      level: 90%
     - name: Technical Sales
       level: 90%
     - name: Team Leadership
       level: 85%
 
 footer: >
- Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
