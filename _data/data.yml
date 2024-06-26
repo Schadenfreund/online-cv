@@ -64,7 +64,7 @@ education:
       details: |
         Focus areas:
         - Polymer Engineering
-	- CAD (Catia), FEM (Ansys) & CAE (Moldflow, Moldex 3D, Cadmould)
+        - CAD (Catia), FEM (Ansys) & CAE (Moldflow, Moldex 3D, Cadmould)
         - Project Management
 
 experiences:
@@ -78,7 +78,7 @@ experiences:
         - Led pre- and post-sales activities
         - Developed strategies to communicate complex CAE analyses to clients
         - Established and grew educational sector partnerships
-	- Created and executed trainings for Material data quality, shrinkage & warpage analysis, injection molding process insight
+        - Created and executed trainings for Material data quality, shrinkage & warpage analysis, injection molding process insight
         
     - role: Manager Customer Service and Engineering  
       time: July 2014 - June 2016
@@ -93,7 +93,7 @@ experiences:
       company: SIGMA Engineering GmbH, Aachen
       details: |
         - Led a team of 5+ engineers for post-sales support
-	- Responsible for Material Data collection and validation
+        - Responsible for Material Data collection, quality control and validation
         - Built and maintained customer relationships
         
     - role: Support Service Engineer
