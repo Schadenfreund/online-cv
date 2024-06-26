@@ -38,7 +38,7 @@ sidebar:
         level: Fluent
       
       - idiom: Croatian
-        level: Fluent
+        level: Basics
 
   interests:
     title: Interests
@@ -57,11 +57,20 @@ career-profile:
   summary: |
     Experienced engineer with expertise in CAE software for injection molding simulation. 
     Strong background in customer relations, project management, and technical sales. 
-    Skilled in coordinating engineering services and managing cross-functional teams.
+    Skilled in coordinating engineering services and managing cross-functional teams. 
+    Founder and host of the podcast format openindie that focuses on talking to indie game developers across europe.
 
 experiences:
   title: Experiences
   info:
+     - role: Founder
+      time: January 2022 - current
+      company: openindie.eu - An indie dev podcast
+      details: |
+        - Planning and execution of social media campaigns to promote and grow our podcast openindie where we talk to European indie game developers about their work and motivation
+        - Script writing, meeting coordination and hosting of interviews
+        - Setup and maintainance of our website (WordPress), social media channels and equipment
+
     - role: Customer Relations
       time: July 2016 - December 2021
       company: SIGMA Engineering GmbH, Aachen
