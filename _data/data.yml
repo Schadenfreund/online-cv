@@ -5,48 +5,52 @@ sidebar:
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
-# Profile information
-name: Ivan Burić
-tagline: CAE Software Expert | Customer Relations Manager
-avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ivan Burić
+  tagline: CAE Software Expert | Customer Relations Manager
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-# Sidebar links
-email: iburic@outlook.com
-phone: +49 179 7264008
-timezone: Europe/Berlin
-citizenship: German / Croatian
-website: openindie.eu
-linkedin: ivan-buric
-xing: ivan_buric3
-github: 
-telegram: # add your nickname without '@' sign
-gitlab:
-bitbucket:
-twitter: 
-stack-overflow: # Number/Username, e.g. 123456/alandoe
-codewars:
-goodreads: # Number-Username, e.g. 123456-alandoe
-pdf: 
+  # Sidebar links
+  email: iburic@outlook.com
+  phone: +49 179 7264008
+  timezone: Europe/Berlin
+  citizenship: German / Croatian
+  website: openindie.eu
+  linkedin: ivan-buric
+  xing: ivan_buric3
+  github: 
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: 
 
-languages:
-  title: Languages
-  info:
-    - idiom: German
-      level: Native
-    - idiom: English
-      level: Fluent
-    - idiom: Croatian
-      level: Fluent
+  languages:
+    title: Languages
+    info:
+      - idiom: German
+        level: Native
+      
+      - idiom: English
+        level: Fluent
+      
+      - idiom: Croatian
+        level: Fluent
 
-interests:
-  title: Interests
-  info:
-    - item: Hiking
-      link:
-    - item: Fitness
-      link:
-    - item: Playing guitar
-      link:
+  interests:
+    title: Interests
+    info:
+      - item: Hiking
+        link:
+      
+      - item: Fitness
+        link:
+      
+      - item: Playing guitar
+        link:
 
 career-profile:
   title: Career Profile
